@@ -1,8 +1,6 @@
 # Wallpapers
 
-These are all the wallpapers I have collected.
-
-I try to keep this repo up to date.
+All of the wallpapers to be used in my upcoming wallpaper application. This is forked from [here](https://github.com/michaelScopic/Wallpapers)
 
 ## Notes
 
