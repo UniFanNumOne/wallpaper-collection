@@ -4,7 +4,7 @@ All of the wallpapers to be used in my upcoming wallpaper application. This is f
 
 ## Notes
 
-If you're going to download this repo make sure you have enough space and good download speeds. The repo is about 1.70GB. Good luck.
+If you're going to download this repo make sure you have enough space and good download speeds. The repo is about 2GB. Good luck.
 
 ## Installation
 
