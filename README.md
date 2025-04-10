@@ -4,7 +4,9 @@ All of the wallpapers to be used in my upcoming wallpaper application. This is f
 
 ## Notes
 
-If you're going to download this repo make sure you have enough space and good download speeds. The repo is about 1.53GB. Good luck.
+This repository is _kinda_ big at around >1.53 GBs (checked on April 28, 2024), therefore I recommend you browse to find only the wallpapers you like instead of downloading everything at once.
+
+If you clone this repo with bad WiFi, start praying to God.
 
 ## Installation
 
@@ -17,7 +19,4 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 
 ## Credits
 
-[Michael_Scopic](https://github.com/michaelScopic/Wallpapers)
-[r/Unixporn](https://www.reddit.com/r/unixporn/)
-[r/unixporn Discord server](https://discord.gg/unixporn)
-[ImagesGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web)
+A huge majority of the wallpapers here I got from the [r/unixporn Discord server](https://discord.gg/unixporn)
