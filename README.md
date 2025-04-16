@@ -21,3 +21,5 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 [r/Unixporn](https://www.reddit.com/r/unixporn/)
 [r/unixporn Discord server](https://discord.gg/unixporn)
 [ImagesGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web)
+
+<p><img src="https://file.garden/ZnwfXL-zy2Zk1E4c/neocities-kikurireviews/Images/stickers/ryogif1.gif" alt="#" style="width:160px;height:125px;"><p>
