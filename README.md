@@ -22,4 +22,4 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 [r/unixporn Discord server](https://discord.gg/unixporn)
 [ImagesGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web)
 
-<p><img src="[https://file.garden/ZnwfXL-zy2Zk1E4c/neocities-kikurireviews/Images/stickers/ryogif1.gif](https://github.com/UniFanNumOne/wallpaper-collection/blob/main/landscapes/marek-piwnicki-zV2zh23STCk-unsplash.jpg?raw=true)" alt="#" style="width:160px;height:125px;"><p>
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/landscapes/marek-piwnicki-qxaFZWRKOSQ-unsplash.jpg?raw=true" alt="#" style="width:160px;height:125px;"><p>
