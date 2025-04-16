@@ -23,3 +23,15 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 [ImagesGoNord](https://github.com/Schroedinger-Hat/ImageGoNord-Web)
 
 <p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/landscapes/marek-piwnicki-qxaFZWRKOSQ-unsplash.jpg?raw=true" alt="#" style=";"><p>
+
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/nord/ImageGoNord30.png?raw=true" alt="#" style=";"><p>
+
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/animated/alley.gif?raw=true" alt="#" style=";"><p>
+
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/cityscapes/john-moeses-bauan-qJJY-UUW8-o-unsplash.jpg?raw=true" alt="#" style=";"><p>
+
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/anime/BocchiWall.png?raw=true" alt="#" style=";"><p>
+  
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/decay/city-scape.png?raw=true" alt="#" style=";"><p>
+
+<p><img src="https://github.com/UniFanNumOne/wallpaper-collection/blob/main/space/0201.jpg?raw=true" alt="#" style=";"><p>
